@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircleCircle2D", "CircleCircle2D.vcxproj", "{A6915552-947A-4C5A-B874-139C00D1EE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Debug|x64.ActiveCfg = Debug|x64
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Debug|x64.Build.0 = Debug|x64
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Debug|x86.Build.0 = Debug|Win32
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Release|x64.ActiveCfg = Release|x64
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Release|x64.Build.0 = Release|x64
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Release|x86.ActiveCfg = Release|Win32
+		{A6915552-947A-4C5A-B874-139C00D1EE7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FCF105-EE15-4E37-9C8E-457838D97124}
+	EndGlobalSection
+EndGlobal
