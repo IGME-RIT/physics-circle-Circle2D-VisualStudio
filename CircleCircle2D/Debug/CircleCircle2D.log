@@ -1,6 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level7\physics-circle-circle2d-mastervs2019\circlecircle2d\main.cpp(537): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level7\physics-circle-circle2d-mastervs2019\circlecircle2d\main.cpp(570): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level7\physics-circle-circle2d-mastervs2019\circlecircle2d\main.cpp(586): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  CircleCircle2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-circle-Circle2D-masterVS2019\CircleCircle2D\Debug\CircleCircle2D.exe
